@@ -9,6 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  google_fonts: ^3.0.1
   animate_gradient:
 
 dev_dependencies:
@@ -17,5 +18,6 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+  uses-material-design: true
   assets:
     - assets/
